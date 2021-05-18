@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://images.unsplash.com/photo-1493673272479-a20888bcee10?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHBsYW50c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  background-image: url('https://images.unsplash.com/photo-1493673272479-a20888bcee10?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHBsYW50c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60');
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -10,7 +10,7 @@ body {
 
 #navList {
   font-size: 50px;
-  font-family: "Amatic SC", cursive !important;
+  font-family: 'Amatic SC', cursive !important;
 }
 #photo {
   height: 330px;
@@ -24,7 +24,7 @@ body {
 #about {
   color: rgb(245, 238, 197);
   font-size: 15px;
-  font-family: "tahoma" !important;
+  font-family: 'tahoma' !important;
   margin-top: 11%;
   padding: 20px;
   max-width: 500px;
