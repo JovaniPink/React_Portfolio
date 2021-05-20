@@ -12,10 +12,9 @@ function Contact() {
       />
       <h1 id="header">Lets Connect!</h1>
       <div id="contact">
-        <p id="info">
-          <i id="contact" className="fas fa-mobile-alt" />
-          812.320.4538
-        </p>
+        {/* <p id="info">
+                     <i id="contact" className="fas fa-mobile-alt"></i>
+                    </p>  */}
         <p id="info">
           <i id="contact" className="far fa-envelope">
             {' '}

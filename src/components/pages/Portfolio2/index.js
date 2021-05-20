@@ -213,9 +213,8 @@ function Portfolio2() {
             <p className="description">
               An employee or manager can view all employees in a sleek list
               format. React and controlled form input adds the functionality of
-              searching in the input box for a name, or sorting the list //
-              eslint-disable-next-line react/no-unescaped-entities
-              alphabetically by the employees first name.
+              searching in the input box for a name, or sorting the list
+              alphabetically by the employee's first name.
             </p>
           </div>
         </div>
